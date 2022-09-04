@@ -6,4 +6,6 @@
 ### Felix Fabricius Knutsen, https://github.com/FelixKnutsen
 ### Nam Hao Tra Ngo, https://github.com/SwornStar
 ### Adrian Kristoffer Viken, https://github.com/Adriankv1
-|header|header|
+| header | header |
+|--------|--------|
+| Christian Eieland Ålykkja | gitHub |
